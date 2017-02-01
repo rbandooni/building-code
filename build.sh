@@ -1,4 +1,4 @@
 #! /bin/bash
 
-gcc hello.c
+gcc hello.c -o hello
 
