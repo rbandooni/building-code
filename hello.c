@@ -1,7 +1,7 @@
 
 #include <stdio.h>
 
-#include "greeting.h"
+#include "hello.h"
 
 int
 factorial(int n)
